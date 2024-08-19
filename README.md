@@ -6,8 +6,8 @@ This project runs a Jupyter Notebook inside a Docker container. Follow the instr
 
 ### Prerequisites
 
-- [Docker installed on your system](https://github.com/shahnawaz-pabon/daily-encyclopedia/tree/main/docker#installing-docker).
-- Docker Compose installed on your system.
+- [Docker installed on your system](https://github.com/shahnawaz-pabon/daily-encyclopedia/tree/main/docker#installing-docker)
+- Docker Compose installed on your system(Already installed if you have installed docker)
 
 ### Setup Instructions
 
